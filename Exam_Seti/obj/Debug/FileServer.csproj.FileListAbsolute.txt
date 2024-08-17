@@ -1,0 +1,7 @@
+C:\Users\Acer\source\repos\Exam_Seti\Exam_Seti\bin\Debug\Exam_Seti.exe.config
+C:\Users\Acer\source\repos\Exam_Seti\Exam_Seti\bin\Debug\Exam_Seti.exe
+C:\Users\Acer\source\repos\Exam_Seti\Exam_Seti\bin\Debug\Exam_Seti.pdb
+C:\Users\Acer\source\repos\Exam_Seti\Exam_Seti\obj\Debug\FileServer.csproj.AssemblyReference.cache
+C:\Users\Acer\source\repos\Exam_Seti\Exam_Seti\obj\Debug\FileServer.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\Exam_Seti\Exam_Seti\obj\Debug\Exam_Seti.exe
+C:\Users\Acer\source\repos\Exam_Seti\Exam_Seti\obj\Debug\Exam_Seti.pdb

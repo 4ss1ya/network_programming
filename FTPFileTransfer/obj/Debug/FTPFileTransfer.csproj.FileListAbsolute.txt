@@ -1,0 +1,7 @@
+C:\Users\Acer\source\repos\Exam_Seti\FTPFileTransfer\bin\Debug\FTPFileTransfer.exe.config
+C:\Users\Acer\source\repos\Exam_Seti\FTPFileTransfer\bin\Debug\FTPFileTransfer.exe
+C:\Users\Acer\source\repos\Exam_Seti\FTPFileTransfer\bin\Debug\FTPFileTransfer.pdb
+C:\Users\Acer\source\repos\Exam_Seti\FTPFileTransfer\obj\Debug\FTPFileTransfer.csproj.AssemblyReference.cache
+C:\Users\Acer\source\repos\Exam_Seti\FTPFileTransfer\obj\Debug\FTPFileTransfer.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\Exam_Seti\FTPFileTransfer\obj\Debug\FTPFileTransfer.exe
+C:\Users\Acer\source\repos\Exam_Seti\FTPFileTransfer\obj\Debug\FTPFileTransfer.pdb

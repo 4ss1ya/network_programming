@@ -1,0 +1,16 @@
+C:\Users\Acer\source\repos\Exam_Seti\FileTransferProject\bin\Debug\FileTransferProject.exe.config
+C:\Users\Acer\source\repos\Exam_Seti\FileTransferProject\bin\Debug\FileTransferProject.exe
+C:\Users\Acer\source\repos\Exam_Seti\FileTransferProject\bin\Debug\FileTransferProject.pdb
+C:\Users\Acer\source\repos\Exam_Seti\FileTransferProject\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Acer\source\repos\Exam_Seti\FileTransferProject\bin\Debug\Renci.SshNet.dll
+C:\Users\Acer\source\repos\Exam_Seti\FileTransferProject\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Acer\source\repos\Exam_Seti\FileTransferProject\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Acer\source\repos\Exam_Seti\FileTransferProject\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Acer\source\repos\Exam_Seti\FileTransferProject\bin\Debug\Renci.SshNet.xml
+C:\Users\Acer\source\repos\Exam_Seti\FileTransferProject\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Acer\source\repos\Exam_Seti\FileTransferProject\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Acer\source\repos\Exam_Seti\FileTransferProject\obj\Debug\FileTransferProject.csproj.AssemblyReference.cache
+C:\Users\Acer\source\repos\Exam_Seti\FileTransferProject\obj\Debug\FileTransferProject.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\Exam_Seti\FileTransferProject\obj\Debug\FileTran.66D7C5AB.Up2Date
+C:\Users\Acer\source\repos\Exam_Seti\FileTransferProject\obj\Debug\FileTransferProject.exe
+C:\Users\Acer\source\repos\Exam_Seti\FileTransferProject\obj\Debug\FileTransferProject.pdb

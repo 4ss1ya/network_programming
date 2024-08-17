@@ -1,0 +1,11 @@
+C:\Users\Acer\source\repos\Exam_Seti\BeelinePhoneScraper\bin\Debug\BeelinePhoneScraper.exe.config
+C:\Users\Acer\source\repos\Exam_Seti\BeelinePhoneScraper\bin\Debug\BeelinePhoneScraper.exe
+C:\Users\Acer\source\repos\Exam_Seti\BeelinePhoneScraper\bin\Debug\BeelinePhoneScraper.pdb
+C:\Users\Acer\source\repos\Exam_Seti\BeelinePhoneScraper\bin\Debug\HtmlAgilityPack.dll
+C:\Users\Acer\source\repos\Exam_Seti\BeelinePhoneScraper\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\Acer\source\repos\Exam_Seti\BeelinePhoneScraper\bin\Debug\HtmlAgilityPack.xml
+C:\Users\Acer\source\repos\Exam_Seti\BeelinePhoneScraper\obj\Debug\BeelinePhoneScraper.csproj.AssemblyReference.cache
+C:\Users\Acer\source\repos\Exam_Seti\BeelinePhoneScraper\obj\Debug\BeelinePhoneScraper.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\Exam_Seti\BeelinePhoneScraper\obj\Debug\BeelineP.06AA78EC.Up2Date
+C:\Users\Acer\source\repos\Exam_Seti\BeelinePhoneScraper\obj\Debug\BeelinePhoneScraper.exe
+C:\Users\Acer\source\repos\Exam_Seti\BeelinePhoneScraper\obj\Debug\BeelinePhoneScraper.pdb

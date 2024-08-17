@@ -1,0 +1,7 @@
+C:\Users\Acer\source\repos\Exam_Seti\MySMTPApp\bin\Debug\MySMTPApp.exe.config
+C:\Users\Acer\source\repos\Exam_Seti\MySMTPApp\bin\Debug\MySMTPApp.exe
+C:\Users\Acer\source\repos\Exam_Seti\MySMTPApp\bin\Debug\MySMTPApp.pdb
+C:\Users\Acer\source\repos\Exam_Seti\MySMTPApp\obj\Debug\MySMTPApp.csproj.AssemblyReference.cache
+C:\Users\Acer\source\repos\Exam_Seti\MySMTPApp\obj\Debug\MySMTPApp.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\Exam_Seti\MySMTPApp\obj\Debug\MySMTPApp.exe
+C:\Users\Acer\source\repos\Exam_Seti\MySMTPApp\obj\Debug\MySMTPApp.pdb

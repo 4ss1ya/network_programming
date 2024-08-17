@@ -1,0 +1,9 @@
+C:\Users\Acer\source\repos\Exam_Seti\SurfaceAreaHttpServer\bin\Debug\SurfaceAreaHttpServer.exe.config
+C:\Users\Acer\source\repos\Exam_Seti\SurfaceAreaHttpServer\bin\Debug\SurfaceAreaHttpServer.exe
+C:\Users\Acer\source\repos\Exam_Seti\SurfaceAreaHttpServer\bin\Debug\SurfaceAreaHttpServer.pdb
+C:\Users\Acer\source\repos\Exam_Seti\SurfaceAreaHttpServer\bin\Debug\Mono.HttpUtility.dll
+C:\Users\Acer\source\repos\Exam_Seti\SurfaceAreaHttpServer\obj\Debug\SurfaceAreaHttpServer.csproj.AssemblyReference.cache
+C:\Users\Acer\source\repos\Exam_Seti\SurfaceAreaHttpServer\obj\Debug\SurfaceAreaHttpServer.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\Exam_Seti\SurfaceAreaHttpServer\obj\Debug\SurfaceA.7700BD58.Up2Date
+C:\Users\Acer\source\repos\Exam_Seti\SurfaceAreaHttpServer\obj\Debug\SurfaceAreaHttpServer.exe
+C:\Users\Acer\source\repos\Exam_Seti\SurfaceAreaHttpServer\obj\Debug\SurfaceAreaHttpServer.pdb

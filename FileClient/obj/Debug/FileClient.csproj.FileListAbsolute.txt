@@ -1,0 +1,11 @@
+C:\Users\Acer\source\repos\Exam_Seti\FileClient\bin\Debug\FileClient.exe.config
+C:\Users\Acer\source\repos\Exam_Seti\FileClient\bin\Debug\FileClient.exe
+C:\Users\Acer\source\repos\Exam_Seti\FileClient\bin\Debug\FileClient.pdb
+C:\Users\Acer\source\repos\Exam_Seti\FileClient\obj\Debug\FileClient.csproj.AssemblyReference.cache
+C:\Users\Acer\source\repos\Exam_Seti\FileClient\obj\Debug\FileClient.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\Exam_Seti\FileClient\obj\Debug\FileClient.exe
+C:\Users\Acer\source\repos\Exam_Seti\FileClient\obj\Debug\FileClient.pdb
+C:\Users\Acer\source\repos\Exam_Seti\FileClient\bin\Debug\Exam_Seti.exe
+C:\Users\Acer\source\repos\Exam_Seti\FileClient\bin\Debug\Exam_Seti.pdb
+C:\Users\Acer\source\repos\Exam_Seti\FileClient\bin\Debug\Exam_Seti.exe.config
+C:\Users\Acer\source\repos\Exam_Seti\FileClient\obj\Debug\FileClient.csproj.Up2Date

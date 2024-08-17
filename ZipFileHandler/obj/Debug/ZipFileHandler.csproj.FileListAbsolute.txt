@@ -1,0 +1,7 @@
+C:\Users\Acer\source\repos\Exam_Seti\ZipFileHandler\bin\Debug\ZipFileHandler.exe.config
+C:\Users\Acer\source\repos\Exam_Seti\ZipFileHandler\bin\Debug\ZipFileHandler.exe
+C:\Users\Acer\source\repos\Exam_Seti\ZipFileHandler\bin\Debug\ZipFileHandler.pdb
+C:\Users\Acer\source\repos\Exam_Seti\ZipFileHandler\obj\Debug\ZipFileHandler.csproj.AssemblyReference.cache
+C:\Users\Acer\source\repos\Exam_Seti\ZipFileHandler\obj\Debug\ZipFileHandler.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\Exam_Seti\ZipFileHandler\obj\Debug\ZipFileHandler.exe
+C:\Users\Acer\source\repos\Exam_Seti\ZipFileHandler\obj\Debug\ZipFileHandler.pdb
